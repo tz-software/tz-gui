@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tz-gui/static/css/main.073c9b0a.css",
-    "main.js": "/tz-gui/static/js/main.9c148de1.js",
+    "main.js": "/tz-gui/static/js/main.25a763af.js",
     "index.html": "/tz-gui/index.html",
     "main.073c9b0a.css.map": "/tz-gui/static/css/main.073c9b0a.css.map",
-    "main.9c148de1.js.map": "/tz-gui/static/js/main.9c148de1.js.map"
+    "main.25a763af.js.map": "/tz-gui/static/js/main.25a763af.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9c148de1.js"
+    "static/js/main.25a763af.js"
   ]
 }
